@@ -26,7 +26,5 @@ Chanwoo Gwon, Yonsei Univ. Researcher, since 2020.05 ~
 
 # Maintainer
 ```
-Mina Kim, mmmmm70@yonsei.ac.kr (2021.01 ~ 2021.06)
-Vicheka Phor, phorvicheka@yonsei.ac.kr (2021.01 ~)
-Chanwoo Gwon, arknell@yonsei.ac.kr (2021.01 ~)
+Chanwoo Gwon, arknell@yonsei.ac.kr (2020.10 ~)
 ```
