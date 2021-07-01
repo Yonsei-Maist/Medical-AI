@@ -22,3 +22,9 @@
 [submodule "attention-test/client/attention-test"]
 	path = attention-test/client/attention-test
 	url = https://github.com/Yonsei-Maist/attention-test.git
+[submodule "abr/client/GraphMarker"]
+	path = abr/client/GraphMarker
+	url = https://github.com/Yonsei-Maist/GraphMarker.git
+[submodule "abr/client/AEPCopy"]
+	path = abr/client/AEPCopy
+	url = https://github.com/Yonsei-Maist/AEPCopy.git
