@@ -1,0 +1,24 @@
+[submodule "cholesterol/server/maist-flask-api-cholesterol"]
+	path = cholesterol/server/maist-flask-api-cholesterol
+	url = https://github.com/Yonsei-Maist/maist-flask-api-cholesterol.git
+[submodule "abr/server/ABR-ai"]
+	path = abr/server/ABR-ai
+	url = https://github.com/Yonsei-Maist/ABR-ai.git
+[submodule "abr/client/ABR-PeakDetector"]
+	path = abr/client/ABR-PeakDetector
+	url = https://github.com/Yonsei-Maist/ABR-PeakDetector.git
+[submodule "abr/client/react-abr"]
+	path = abr/client/react-abr
+	url = https://github.com/Yonsei-Maist/react-abr.git
+[submodule "abr/module/ABR-image-processor"]
+	path = abr/module/ABR-image-processor
+	url = https://github.com/Yonsei-Maist/ABR-image-processor.git
+[submodule "uroflow/server/maist-flask-api-uroflow"]
+	path = uroflow/server/maist-flask-api-uroflow
+	url = https://github.com/Yonsei-Maist/maist-flask-api-uroflow.git
+[submodule "uroflow/client/uroflow"]
+	path = uroflow/client/uroflow
+	url = https://github.com/Yonsei-Maist/uroflow.git
+[submodule "attention-test/client/attention-test"]
+	path = attention-test/client/attention-test
+	url = https://github.com/Yonsei-Maist/attention-test.git
