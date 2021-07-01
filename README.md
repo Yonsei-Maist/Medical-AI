@@ -8,7 +8,7 @@ Project to analyze Medical data using AI modules.
 - All of Medical data must be encrypted or only used in local; or the project must be private
 
 ## Index & Summary
-[abr](https://github.com/Yonsei-Maist/Medical-AI/tree/main/abr)
+[ABR](https://github.com/Yonsei-Maist/Medical-AI/tree/main/abr)  
 Find 5V peak from graph of auditory brainstem response ([ABR](https://en.wikipedia.org/wiki/Auditory_brainstem_response)) result  
 - Regression Problem
 - Predict 5V peak from graph image
@@ -28,3 +28,8 @@ Calculate LDL-Cholesterol using HDL-C, Total-C and Triglyceride
 Find peak from graph of [uroflow rate](https://en.wikipedia.org/wiki/Urine_flow_rate)
 - Regression Problem
 - Predict peak from uroflow
+
+# Maintainer
+```
+Chanwoo Gwon, arknell@yonsei.ac.kr (2021.07~)
+```
