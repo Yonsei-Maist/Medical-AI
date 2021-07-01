@@ -18,6 +18,6 @@ Chanwoo Gwon, Yonsei Univ. Researcher, since 2020.06 ~
 
 # Maintainer
 ```
-Sangwon Hwang, arsenal@yonsei.ac.kr (2021.06 ~)
+Sangwon Hwang, arsenal@yonsei.ac.kr (2021.05 ~)
 Chanwoo Gwon, arknell@yonsei.ac.kr (2021.06 ~)
 ```
